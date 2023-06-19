@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jakoblem
-- 👀 I’m a professor in math currently developing introductory engineering math courses using SymPy @ Tech. Uni Denmark
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on the use of SymPy in university teaching 
+- 👀 I’m a professor in math currently developing introductory engineering math courses using Python and SymPy @ Tech. Uni Denmark 
 - 📫 How to reach me jakle@dtu.dk
 
 <!---
