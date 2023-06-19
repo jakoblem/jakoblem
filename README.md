@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @jakoblem
-- 👀 I’m a professor in math currently developing introductory engineering math courses using Python and SymPy @ Tech. Uni Denmark 
+- 👀 I’m a math professor @ Tech. Uni Denmark
+- 👀 I'm currently developing introductory engineering math courses using Python and SymPy
+- 👀 My Researcher ID is [ORCID](https://orcid.org/0000-0002-9338-7755)
 - 📫 How to reach me jakle@dtu.dk
 
 <!---
